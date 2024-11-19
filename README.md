@@ -36,10 +36,10 @@ Copy code
 spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>
 Build and run each back-end module:
 
-# Backend-1
+Backend-1
 cd Backend-1
 ./mvnw spring-boot:run
-# Backend-2
+Backend-2
 cd ../Backend-2
 ./mvnw spring-boot:run
 
